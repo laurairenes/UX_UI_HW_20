@@ -1,0 +1,12 @@
+header img {
+ height: 200px;
+ width: 1200px;
+ padding: 25px;
+ object-fit: contain;
+ align-items: center;
+ justify-content: center;
+}
+
+.card {
+    align-items: center;
+}
